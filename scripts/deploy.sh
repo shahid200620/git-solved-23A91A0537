@@ -1,4 +1,5 @@
 #!/bin/bash
+
 set -e
 
 # Multi-Environment Deploy Script
@@ -34,3 +35,4 @@ else
 fi
 
 echo "Deployment completed successfully!"
+
