@@ -73,3 +73,8 @@ See `/docs` folder and `/docs/ai-integration.md`
 ## License
 MIT License
 
+## My Git Mastery Challenge Summary
+- Learned to clone, branch, and merge repositories
+- Resolved conflicts manually
+- Practiced Git commands like cherry-pick, rebase, revert, and stash
+- Final version tagged as v1.0
