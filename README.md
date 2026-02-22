@@ -73,7 +73,7 @@ See `/docs` folder and `/docs/ai-integration.md`
 ## License
 MIT License
 
-## My Git Mastery Challenge Summary
+## My DevOps_Simulator Summary
 - Learned to clone, branch, and merge repositories
 - Resolved conflicts manually
 - Practiced Git commands like cherry-pick, rebase, revert, and stash
